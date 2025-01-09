@@ -1,2 +1,2 @@
-**Sports Data Visualization \\
-Welcome to my GitHub! 😊 This is where I combine my passion for sports and data**
+**Sports Data Visualization**
+Within this repository, you will find code to analyze and design visuals that explore sports data! ⚽😊
